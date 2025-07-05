@@ -28,7 +28,7 @@ The visuals and pivot tables were created to support decision-making and highlig
 
 | File | Description |
 |------|-------------|
-| `sales_dashboard.xlsx` | Raw and cleaned dataset with pivot tables and charts |
+| `retail_store_sales_dashboard.xlsx` | Raw and cleaned dataset with pivot tables and charts |
 | `screenshots/` | Chart screenshots (e.g. revenue trends, monthly category sales) |
 | `README.md` | Project summary and insights |
 
