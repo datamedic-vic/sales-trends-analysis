@@ -50,6 +50,16 @@ The visuals and pivot tables were created to support decision-making and highlig
 
 ---
 
+## 📸 Sample Visuals
+
+![Chart 1 & 2](Screenshot_chart%201%262.png)  
+*Charts comparing monthly revenue and category performance*
+
+![Chart 3 & 4](Screenshot_chart%203%264.png)  
+*Charts showing seasonal sales trends and quantity sold*
+
+---
+
 ## Notes
 
 - Visuals were created without slicers.
